@@ -40,7 +40,8 @@ const config = {
           editUrl:
             'https://github.com/jvavav/jvavav.com/tree/main/',
         },
-        blog: false
+        blog: false,
+        pages: false
       }),
     ],
   ],
